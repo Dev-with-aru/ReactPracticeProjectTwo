@@ -1,6 +1,6 @@
 # Password Generator
 
-BG Changer is a simple React web application that allows you to change the background color of a webpage by clicking on color buttons. It's a fun project to experiment with React state management and basic UI interactions.
+Password Generator is a React-based web application that allows you to generate secure and customizable passwords. You can specify the length of the password, whether it should include numbers and special characters, and easily copy the generated password to your clipboard.
 
 ## Table of Contents
 
@@ -21,12 +21,12 @@ To run this project locally on your machine, follow these steps:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/arunava-saha/ReactPracticeProjectTwo.git
+      git clone https://github.com/arunava-saha/ReactPracticeProjectTwo.git
    ```
 
 2. Navigate to the project directory:
   ```bash
-  cd bg-changer
+   cd password-generator
   ```
 
 3. Install the project dependencies using npm:
